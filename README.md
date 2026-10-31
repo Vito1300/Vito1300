@@ -60,7 +60,3 @@ I build Shopify storefronts and the automations behind them: custom Liquid secti
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
 ![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
 ![SEO / GEO](https://img.shields.io/badge/SEO%20%2F%20GEO-555555?style=flat-square)
-
-**AI tools**  
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
