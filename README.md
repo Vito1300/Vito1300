@@ -8,13 +8,6 @@ I build Shopify storefronts and the automations behind them: custom Liquid secti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viktor%20Zubenko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-zubenko-6495a236a/)
 [![Email](https://img.shields.io/badge/Email-viktorzubenko05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:viktorzubenko05@gmail.com)
 
----
-
-**Personal site** · [viktorzubenko.com](https://viktorzubenko.com)
-Portfolio with projects, experience and contacts.
-
----
-
 ### Stack
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
