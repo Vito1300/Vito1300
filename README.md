@@ -1,0 +1,44 @@
+<h1 align="left">Hi, I'm Viktor 👋</h1>
+
+**Shopify & Front-end Developer** from Poltava, Ukraine · remote (UTC+3)
+
+I build Shopify storefronts and the automations behind them: custom Liquid sections, site speed, order tracking and monitoring for back-office scripts.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-viktorzubenko.com-111111?style=flat-square)](https://viktorzubenko.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viktor%20Zubenko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-zubenko-6495a236a/)
+[![Email](https://img.shields.io/badge/Email-viktorzubenko05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:viktorzubenko05@gmail.com)
+
+---
+
+### What I've worked on
+
+**MammyHug** · [mammyhug.com](https://mammyhug.com) · 08.2025 – 10.2026
+DTC clothing store on Shopify. Liquid sections the team edits without a developer, a faster storefront (LCP 4 s → 1.25 s), and the back office: Etsy + Shopify + 17TRACK order tracking on signed webhooks in Google Cloud Run, Ukrposhta API, and monitoring for the store's Apps Script automations.
+
+**Poltavska Kulka** · [kulka.pl.ua](https://kulka.pl.ua) · 02.2026 – 04.2026
+Website on Weblium with clear calls to order, plus GA4, Tag Manager, Merchant Center, Google Ads and Search Console.
+
+**Personal site** · [viktorzubenko.com](https://viktorzubenko.com)
+Portfolio with projects, experience and contacts.
+
+> Client work lives in private repositories.
+
+---
+
+### Stack
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-004999?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS / SCSS](https://img.shields.io/badge/CSS%20%2F%20SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React%20(learning)-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL%20Admin%20API-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+Open to remote Shopify, front-end and automation work.
