@@ -16,7 +16,6 @@ I build Shopify storefronts and the automations behind them: custom Liquid secti
 ![Online Store 2.0](https://img.shields.io/badge/Online%20Store%202.0-5E8E3E?style=flat-square&logo=shopify&logoColor=white)
 ![Shopify CLI](https://img.shields.io/badge/Shopify%20CLI-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Theme development](https://img.shields.io/badge/Theme%20development-5E8E3E?style=flat-square)
-![Prestige theme](https://img.shields.io/badge/Prestige%20theme-5E8E3E?style=flat-square)
 ![GraphQL Admin API](https://img.shields.io/badge/GraphQL%20Admin%20API-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-5E8E3E?style=flat-square)
 ![JSON-LD](https://img.shields.io/badge/JSON--LD-333333?style=flat-square)
