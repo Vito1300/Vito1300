@@ -42,9 +42,6 @@ I build Shopify storefronts and the automations behind them: custom Liquid secti
 ![Secret Manager](https://img.shields.io/badge/Secret%20Manager-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-555555?style=flat-square)
 ![Signed webhooks](https://img.shields.io/badge/Signed%20webhooks-555555?style=flat-square)
-![Etsy Open API](https://img.shields.io/badge/Etsy%20Open%20API-F16521?style=flat-square&logo=etsy&logoColor=white)
-![17TRACK API](https://img.shields.io/badge/17TRACK%20API-1E88E5?style=flat-square)
-![Ukrposhta API](https://img.shields.io/badge/Ukrposhta%20API-FFC107?style=flat-square)
 
 **Backend & tooling**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
